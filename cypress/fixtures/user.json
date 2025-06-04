@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "user": {
+    "email": "space_explorer@galaxy.com",
+    "name": "Stellar Commander"
+  },
+  "accessToken": "Bearer space_token",
+  "refreshToken": "galactic_token"
+}
